@@ -17,6 +17,15 @@
 
 ---
 
+### First Prototypes
+
+<p align="center">
+  <img src="pictures/2Way_Belay-1.png" width="45%" />
+  <img src="pictures/Analog_Belay-1.png" width="45%" />
+</p>
+
+---
+
 ## Credits
 - **RyanG** – Key input on architecture, feedback, and author of the Belay.py firmware integration.  
   <--! Big Thanks to Ryan! 🙌 -->
